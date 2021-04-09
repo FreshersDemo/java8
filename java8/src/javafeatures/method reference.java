@@ -1,7 +1,7 @@
 package javafeatures;
 import java.util.List;
 import java.util.ArrayList;
-public class lambdaexp {
+public class methodreference {
 	
 	   public static void main(String args[]) {
 	      List names = new ArrayList();
